@@ -2,8 +2,8 @@
   "name": "gitbook-plugin-mob-navigation",
   "description": "Add mob navigation to your Gitbook",
   "main": "index.js",
-  "version": "0.0.1",
-  "license": "Apache 2",
+  "version": "0.1.0",
+  "license": "MIT",
   "author": "MaJing<merlu.majing@gmail.com>",
   "engines": {
     "gitbook": "*"
@@ -14,7 +14,6 @@
     "url": "https://github.com/MJPiero/gitbook-plugin-mob-navigation.git"
   },
   "dependencies": {
-    "cheerio": "*",
     "underscore": "*"
   }
 }
