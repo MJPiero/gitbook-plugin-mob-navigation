@@ -1,0 +1,23 @@
+{
+  "name": "gitbook-plugin-mob-navigation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MJPiero/gitbook-plugin-mob-navigation.git"
+  },
+  "keywords": [
+    "github",
+    "mob"
+  ],
+  "author": "MaJing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MJPiero/gitbook-plugin-mob-navigation/issues"
+  },
+  "homepage": "https://github.com/MJPiero/gitbook-plugin-mob-navigation#readme"
+}
